@@ -1,0 +1,8 @@
+slice.ogg
+	bookFlip3.ogg
+	kenney
+	https://kenney.nl/assets/rpg-audio
+music.ogg
+	Eye of the Storm.mp3
+	Joth
+	https://opengameart.org/content/eye-of-the-storm
